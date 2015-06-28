@@ -1,6 +1,9 @@
 # Mac garbage
 .DS_Store
 
+# IPython checkpoint filse
+.ipynb_checkpoints
+
 # IPython generated digraphs
 Digraph.gv
 Digraph.gv.svg
