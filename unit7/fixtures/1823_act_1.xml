@@ -1,0 +1,803 @@
+<div type="act">
+            <head>Act 1:</head>
+            <div type="scene">
+               <head>Scene 1:</head>
+               <stage type="setting">An Elegant apartment in the royal palace. The windows
+						opening on a Balcony, adorned with flowers.</stage>
+               <stage type="business">Julian sleeping on a couch--Annabel</stage>
+               <sp who="#Annabel_J">
+                  <speaker>Annab.</speaker>
+                  <l n="1">No, still he
+							sleeps-- 'Twas but the myrtle
+							bud</l>
+                  <l n="2">Tapping against the casement, as the wind</l>
+                  <l n="3">Stirred in the leafy branches. Well he loved</l>
+                  <l n="4">That pleasant bird-like sound, which, as a voice</l>
+                  <l n="5">Summoned us forth into the fresher
+							air</l>
+                  <l n="6">Of eve, or early morn. Ah! when
+							again--</l>
+                  <l n="7">And yet his sleep is hopeful. For seven nights</l>
+                  <l n="8">He had not tasted slumber. Who comes here?</l>
+                  <stage>Enter Alfonso, (as Theodore)</stage>
+                  <l n="9">The gentle page! Alas! To wake him now!</l>
+                  <l n="10">Hush, Theodore! Tread softly--softlier, boy!</l>
+               </sp>
+               <sp who="#Alfonso_J">
+                  <speaker>Alfon-</speaker>
+                  <l n="11">Doth he still sleep?</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Annab.</speaker>
+                  <l n="12">Speak lower.</l>
+               </sp>
+               <sp who="#Alfonso_J">
+                  <speaker>Alfon</speaker>
+                  <l n="13">Doth he sleep?</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Annab</speaker>
+                  <l n="14">Come this way, Theodore! Here, close to me</l>
+                  <pb/>
+                  <l n="15">He sleeps. He hath not mov'd in all the hours</l>
+                  <l n="16">That thou hast been away.</l>
+               </sp>
+               <sp who="#Alfonso_J">
+                  <speaker>Alfon.</speaker>
+                  <l n="17">Then we may hope,</l>
+                  <l n="18">Dear lady, we may hope!</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Annab.</speaker>
+                  <l n="19">Alas! Alas!</l>
+                  <l n="20">See how he lies, scarce breathing. Whilst I hung</l>
+                  <l n="21">Over his couch, I should have thought him
+							dead,</l>
+                  <l n="22">but for his short and frequent sighs.</l>
+               </sp>
+               <sp who="#Alfonso_J">
+                  <speaker>Alfon</speaker>
+                  <l n="23">Ah me!</l>
+                  <l n="24">Not even in slumber can he lose the sense</l>
+                  <l n="25">Of that deep misery. And I--he wakes!</l>
+                  <l n="26">Dost thou not see the quivering mantle heave</l>
+                  <l n="27">With sudden motion?</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Annab.</speaker>
+                  <l n="28">Thou hast wakened him.</l>
+                  <l n="29">Thy clamorous grief hath roused him. Hence! begone!</l>
+                  <l/>
+                  
+               </sp>
+               <sp who="#Alfonso_J">
+                  <speaker>Alfon.</speaker>
+                  <l n="30">And yet his eyes are closed. He sleeps.</l>
+                  <l n="31">He did but move his hand.</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Annab.</speaker>
+                  <l n="32">How changed he is!</l>
+                  <l n="33">How pale! how wasted! Can one little
+							week</l>
+                  <pb/>
+                  <l n="34">Of pain and sickness so have faded thee,</l>
+                  <l n="35">My princely Julian! But eight days ago</l>
+                  <l n="36">There lived not in this gladsome Sicily</l>
+                  <l n="37">So glad a spirit. Voice, and step, and eye,</l>
+                  <l n="38">All were one happiness, till that dread
+							hour,</l>
+                  <l n="39">When, drest in sparkling smiles, radiant and
+							glowing,</l>
+                  <l n="40">With tender thoughts, he flew to meet the King</l>
+                  <l n="41">And his great father. He went forth
+							alone,</l>
+                  <l n="42">Frenzy and grief came back with him.</l>
+               </sp>
+               <sp who="#Alfonso_J">
+                  <speaker>
+                     <del rend="squiggles">Annab. </del>Alf.</speaker>
+                  <l n="43">And I, </l>
+                  <l n="44">Another grief.</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Annab.</speaker>
+                  <l n="45">Thou wast a comforter.</l>
+                  <l n="46">All stranger as thou art, hast thou not shared</l>
+                  <l n="47">My watch as carefully, as faithfully,</l>
+                  <l n="48">As I had been thy
+							sister?</l>
+                  <l/>
+                  <l/>
+                  <l/>
+               </sp>
+               <sp who="#Alfonso_J">
+                  <speaker/>
+                  <l/>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker/>
+                  <l/>
+               </sp>
+               <sp who="#Alfonso_J">
+                  <speaker>Alfon.</speaker>
+                  <l n="49">I never heard before</l>
+                  <l n="50">That 'twas to meet the king that fatal
+					          		night,</l>
+                  <l n="51">Knowingly, purposely! How could he guess</l>
+                  <l n="52">That they should meet? What moved him to that thought?</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Annab.</speaker>
+                  <l n="53">Stranger, altho' thou be, thou can'st but know</l>
+                  <l n="54">Prince Julian's father is the regent here,</l>
+                  <l n="55">And rules for his young kinsman, King Alfonso.</l>
+               </sp>
+               <sp who="#Alfonso_J">
+                  <speaker>Alfon.</speaker>
+                  <l n="56">Aye!-- for Alfonso?</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Annab.</speaker>
+                  <l n="57">Where pity him?</l>
+               </sp>
+               <sp who="#Alfonso_J">
+                  <speaker>Alfon.</speaker>
+                  <l n="58">I know not; but I am an Orphan
+							too.</l>
+                  <l n="59">I interrupt thee, Lady.</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Annab.</speaker>
+                  <l n="60">Yet, in truth,</l>
+                  <l n="61">A gentle pity lingers round the name</l>
+                  <l n="62">Of King Alfonso, orphaned, as thou
+							say'st,</l>
+                  <l n="63">And drooping into sickness, when he
+							lost</l>
+                  <l n="64">His father--Ever since, the mournful
+							boy</l>
+                  <l n="65">Hath dwelt in the Villa d'Oro.</l>
+               </sp>
+               <sp who="#Alfonso_J">
+                  <speaker>Alf.</speaker>
+                  <l n="66">Hast thou seen him?</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Annab.</speaker>
+                  <l n="67">The King? No-- I'm of Naples. When Prince Julian</l>
+                  <l n="68">First brought me here, a bride, his royal
+							cousin</l>
+                  <l n="69">Was fixed beside his father's dying bed.</l>
+                  <l n="70">I never saw him, yet I know him
+							well,</l>
+                  <l n="71">For I have sate, and listened hour by hour,</l>
+                  <l n="72">To hear my husband speak of the fair
+							prince</l>
+                  <pb/>
+                  <l n="73">And his excelling virtues.</l>
+               </sp>
+               <sp who="#Alfonso_J">
+                  <speaker>Alf.</speaker>
+                  <l n="74">Did he? Ah!</l>
+                  <l n="75">But 'twas his wont, talking of those he loved,</l>
+                  <l n="76">To gild them with the rich, and burnished glow</l>
+                  <l n="77">Of his own brightness, as the evening sun</l>
+                  <l n="78">Decks all the clouds in glory.</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Annab.</speaker>
+                  <l n="79">Very dear</l>
+                  <l n="80">Was that young boy to Julian--'twas a
+							friendship</l>
+                  <l n="81">Fonder than common, blended with a kind</l>
+                  <l n="82">Protecting tenderness; such as brother</l>
+                  <l n="83">Mightly shew unto the younger born.</l>
+               </sp>
+               <sp who="#Alfonso_J">
+                  <speaker>Alfon.</speaker>
+                  <l n="84">Oh! he hath proved it.</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Annab.</speaker>
+                  <l n="85">Thou dost know them both?</l>
+               </sp>
+               <sp who="#Alfonso_J">
+                  <speaker>Alfon.</speaker>
+                  <l n="86">I do. Say on, dear Lady.</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Annab.</speaker>
+                  <l n="87">Three weeks
+							since,</l>
+                  <l n="88">The Duke of Melfi went to bring his ward</l>
+                  <l n="89">Here to Messina.</l>
+                  <pb/>
+               </sp>
+               <sp who="#Alfonso_J">
+                  <speaker>Alfon.</speaker>
+                  <l n="90">To be crowned. They came not</l>
+                  <l n="91">But wherefore went Prince Julian forth to meet them?</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Annab.</speaker>
+                  <l n="92">Father nor cousin came, nor
+							Messenger</l>
+                  <l n="93">From Regent or from King; and Julian
+							chafed,</l>
+                  <l n="94">And fretted at delay. At length, a
+							peasant</l>
+                  <l/>
+                  <l n="95">Brought tidings that the royal two that
+							morn</l>
+                  <l n="96">Left Villa d'Oro. Glowing from the chace,</l>
+                  <l n="97">Prince Julian stood, the bridle in his hand,</l>
+                  <l n="98">New lighted, soothing now his prancing steed.</l>
+                  <l n="99">And prattling now to me. He heard the tale,</l>
+                  <l n="100"/>
+                  <l n="101"/>
+                  <l n="102"/>
+                  <l n="103"/>
+                  <l n="104"/>
+                  <l n="105">And instant sprang again into his seat,</l>
+                  <l n="106"/>
+                  <l n="107"/>
+                  <l n="108"/>
+                  <l n="109">He spake no word; but, as he passed,</l>
+                  <l n="110">Just glanced back at me, with his gladsome eyes,</l>
+                  <l n="111">And such a smile of joy, and such a wave</l>
+                  <l n="112">Of his plumed bonnet--His return thou
+							know'st.</l>
+               </sp>
+               <sp who="#Alfonso_J">
+                  <speaker>Alfon.</speaker>
+                  <l n="113">I was its wretched partner.</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Annab.</speaker>
+                  <l n="114">He on foot,</l>
+                  <l n="115">Thou on the o'er travell'd horse; slow, yet all
+							stained</l>
+                  <l n="116">With sweat, and panting, as if  escaped</l>
+                  <l n="117">From hot pursuit; and how he called for wine</l>
+                  <l n="118">For his poor Theodore, his faithful
+							page!</l>
+                  <pb/>
+                  <l n="119">Then sate him down, and shook with the cold fit</l>
+                  <l n="120">Of anguish fever, till the strong couch rocked</l>
+                  <l n="121">Like a child's cradle. There he sate and sighed,</l>
+                  <l n="122">And then the frenzy came. Theodore!</l>
+               </sp>
+               <sp who="#Alfonso_J">
+                  <speaker>Alfon.</speaker>
+                  <l n="123">Lady!</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Annab.</speaker>
+                  <l n="124">He utters nought but madness; yet sometimes,</l>
+                  <l n="125">Athwart his ravings, I have thought--I have
+							feared--</l>
+                  <l n="126">Theodore, thou must know the
+							cause</l>
+               </sp>
+               <sp who="#Alfonso_J">
+                  <speaker>Alfon.</speaker>
+                  <l n="127">Too well.</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Annab.</speaker>
+                  <l n="128">Oh, tell me.</l>
+               </sp>
+               <sp who="#Alfonso_J">
+                  <speaker>Alfon.</speaker>
+                  <l n="129">Hush! he
+							wakes!</l>
+               </sp>
+               <stage type="business"/>
+               <sp who="#Annabel_J">
+                  <speaker>Annab.</speaker>
+                  <stage type="business"/>
+                  <l n="130">Julian! dear Julian!</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian</speaker>
+                  <l n="131">Sure I have slept a long, long while! Where am I?</l>
+                  <l n="132">How came I hither? Whose kind hand is this?</l>
+                  <l n="133">My Annabel!</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Annab.</speaker>
+                  <l n="134">Oh, what a happiness </l>
+                  <l n="135">To see thee  wake from gentle sleep!</l>
+                  <pb/>
+                  <l n="136">Art thou not better? Shall I raise thee up?</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian</speaker>
+                  <l n="137">Aye, dearest. Have I, then been ill? I'm
+							weak,</l>
+                  <l n="138">I trouble thee, my sweet one.</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Annab.</speaker>
+                  <l n="139">'Tis a joy</l>
+                  <l n="140">To minister unto thee.</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian</speaker>
+                  <l n="141">Wipe my brow,</l>
+                  <l n="142">And part these locks, that the fresh air may cool</l>
+                  <l n="143">My forehead--Feel, it
+							burns.</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Annab.</speaker>
+                  <l n="144">Alas! how wild</l>
+                  <l n="145">This long neglect hath made thy glossy
+							curls!</l>
+                  <l n="146">How tangled!</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian</speaker>
+                  <l n="147">I am faint. Pray lay me down.</l>
+                  <l n="148">Surely the day is stifling</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Annab.</speaker>
+                  <l n="149">There.--Good boy.</l>
+                  <l n="150">Throw wide the casement. Doth not the soft breeze</l>
+                  <l n="151">Revive thee?</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian</speaker>
+                  <l n="152">I am better. I will rise. So, dear wife,</l>
+                  <l n="153"/>
+                  <l n="154"/>
+                  <l n="155">A sick man is as wayward as a child;</l>
+                  <pb/>
+                  <l n="156">Forgive me. <del rend="cross-out">I</del> have
+											<add>
+                        <metamark rend="caret">I</metamark>
+                     </add> been long
+									ill.</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Annab.</speaker>
+                  <l n="157">A week.</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian</speaker>
+                  <l n="158">I have no memory of aught. 'Tis just</l>
+                  <l n="159">Like waking from a dream, a
+							horrible</l>
+                  <l n="160">Confusion of strange miseries, crime and
+							blood,</l>
+                  <l n="161">And all I love.-- Great heaven, how clear it
+							seems!</l>
+                  <l n="162">How like a truth! I thought that I rode forth</l>
+                  <l n="163">On my white Barbary horse. Say, did I
+							ride</l>
+                  <l n="164">Alone that day?</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Annab.</speaker>
+                  <l n="165">Yes.</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="166">Did I? Could I? No.</l>
+                  <l n="167">Thou dost mistake. I did not. Yet, 'tis
+							strange</l>
+                  <l n="168">How plain that horror lives within my
+							brain,</l>
+                  <l n="169">As what hath been.</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Annab.</speaker>
+                  <l n="170">Forget it.</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="171">Annabel,</l>
+                  <l n="172">I thought I was upon that gallant steed</l>
+                  <l n="173">At his full pace. Like clouds before the wind</l>
+                  <l n="174">We flew, as easily as the strong bird</l>
+                  <l n="175">That soars nearest the sun, till, in a
+							pass,</l>
+                  <pb/>
+                  <l n="176">Between the mountains, screams and cries for
+							help</l>
+                  <l n="177">Rang in mine ears, and I beheld--O
+							heav'n!</l>
+                  <l n="178">It was not--could not--no! no! I have been sick</l>
+                  <l n="179">Of a sharp fever, and delirium shews,</l>
+                  <l n="180">And to the bodily sense makes palpable</l>
+                  <l n="181">Unreal forms, objects of sight and
+							sound,</l>
+                  <l n="182">Which have no being, save in the burning
+							brain</l>
+                  <l n="183">Of the poor sufferer. Why should it shake me?</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Annab.</speaker>
+                  <l n="184">Could'st thou walk to the window, and
+							quaff down</l>
+                  <l n="185">The fragrant breeze, it would revive thee more</l>
+                  <l n="186">Than food or sleep. Forget these evil dreams.</l>
+                  <l n="187">Can'st thou not walk?</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="188">I'll try.</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Annab.</speaker>
+                  <l n="189">Lean upon me,</l>
+                  <l n="190">And Theodore. Approach dear boy; support him.</l>
+                  <stage>Alfonso approaches Julian</stage>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <stage>Eyeing him</stage>
+                  <l n="191">Ha! art thou there? Thou? I am blinded. dazzled.</l>
+                  <l n="192">Is this a vision? this fair shape, that seems</l>
+                  <l n="193">A living child? Do I dream now?</l>
+                  <pb/>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Annab.</speaker>
+                  <l n="194">He is</l>
+                  <l n="195">Young Theodore, the page, who that sad night</l>
+                  <l n="196">Returned.</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="197">Then, all is real. Lay me down,</l>
+                  <l n="198">That I may die</l>
+               </sp>
+               <sp who="#Alfonso_J">
+                  <speaker>Alfon.</speaker>
+                  <l n="199">Alas! I feared too surely</l>
+                  <l n="200">That when he saw me,--</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Annab.</speaker>
+                  <l n="201">Julian! This is grief</l>
+                  <l n="202">Not sickness, Julian!</l>
+               </sp>
+               <sp who="#Alfonso_J">
+                  <speaker>Alfon.</speaker>
+                  <l n="203">Rouse him not, dear
+							Lady!</l>
+                  <l n="204">See how his hands are clenched!--Waken him
+							not</l>
+                  <l n="205">To frenzy! Oh, that I alone could bear</l>
+                  <l n="206">This weight of misery!</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Annab.</speaker>
+                  <l n="207">He knows the cause, </l>
+                  <l n="208">And I-- It is my right, my privilege</l>
+                  <l n="209">To share thy woes, to soothe them. I'll weep with thee,</l>
+                  <l n="210">And that will be a comfort. Did'st thou think</l>
+                  <pb/>
+                  <l n="211">Thou could'st be dearer to me than
+						            	before,</l>
+                  <l n="212">When thou wast well and happy? But thou art</l>
+                  <l n="213">Now. Tell me this secret. <del rend="squiggles">Oh, spare my heart</del> I'll be faithful,</l>
+                  <l n="214">I'll never breathe a word.--Oh, spare my
+							heart</l>
+                  <l n="215">This agony of doubt! What was the <del rend="squiggles">horror </del>horror</l>
+                  <l n="216">That maddened thee?</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="217">Within the rifted rocks</l>
+                  <l n="218">Of high Albano, rotting in a glen,</l>
+                  <l n="219">Dark, dark at very noon, a father lies</l>
+                  <l n="220">Murdered by his own son.</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Annab.</speaker>
+                  <l n="221">And thou did'st see</l>
+                  <l n="222">The deed! An aweful sight to one so good!</l>
+                  <l n="223">Yet--</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="224">Birds obscene, and wolf, and ravening fox,</l>
+                  <l n="225">Ere this-- only the dark hairs on the ground.</l>
+                  <l n="226">And the brown crusted blood! And she can ask</l>
+                  <l n="227">Why I am mad!</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Annab.</speaker>
+                  <l n="228">Oh! a thrice aweful night</l>
+                  <l n="229">To one so duteous! Holy priests should lave</l>
+                  <l n="230">With blessed water that foul spot, and thou,</l>
+                  <l n="231">Pious and pitying, thou shalt--</l>
+                  <pb/>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="232">Hear at once,</l>
+                  <l n="233">Innocent torturer; that, drop by drop,</l>
+                  <l n="234">Pour'st moulten lead into my wounds, that glen--</l>
+                  <l n="235">Hang not upon me--In that darksome glen</l>
+                  <l n="236">My father lies. I am a murderer!</l>
+                  <l n="237">A parricide! Accurst of god and man!</l>
+                  <l n="238">Let go my hand. Purest and whitest saint,</l>
+                  <l n="239">Let go.</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Annab.</speaker>
+                  <l n="240">This is a madness. Even now</l>
+                  <l n="241">The fever shakes him.</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="242">Why, the mad are happy.</l>
+                  <l n="243">Annabel, this is a soul-slaying truth.</l>
+                  <l n="244">There stands a witness.</l>
+               </sp>
+               <sp who="#Alfonso_J">
+                  <speaker>Alfon.</speaker>
+                  <l n="245">Julian knew him not.</l>
+                  <l n="246">It was to save a life, a worthless
+							life!</l>
+                  <l n="247">Oh, that I had but died beneath the sword</l>
+                  <l n="248">Which seemed to tremble! That I had ne'er</l>
+                  <l n="249">Been born to grieve thee, Julian! Pardon me,</l>
+                  <l n="250">Dear Lady, pardon me!</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Annab.</speaker>
+                  <l n="251">Oh, gentle boy,</l>
+                  <pb/>
+                  <l n="252">How shall we soothe this grief?</l>
+               </sp>
+               <sp who="#Alfonso_J">
+                  <speaker>Alfon.</speaker>
+                  <l n="253">Alas, alas!</l>
+                  <l n="254">Why did he rescue me? I'm a poor orphan;</l>
+                  <l n="255">None would have wept for me. I had no
+							friend</l>
+                  <l n="256">In all the world, but one..</l>
+                  <l/>
+                  <l/>
+                  <l/>
+                  <l/>
+                  <l/>
+                  <l/>
+                  <l n="257">Shame on me, that I shunned the sword.</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="258">By heaven</l>
+                  <l n="259">It could not be a crime to save thee! Kneel</l>
+                  <l n="260">Before him, Annabel. He is the King.</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Annab.</speaker>
+                  <l n="261">Alfonso!</l>
+               </sp>
+               <sp who="#Alfonso_J">
+                  <speaker>Alfon.</speaker>
+                  <l n="262">Aye, so please you, fairest Cousin,</l>
+                  <l n="263">But still your servant. Do not hate me,
+							lady,</l>
+                  <l n="264">Tho' I have caused this misery. We have shared</l>
+                  <l n="265">One care, one fear, one hope; have watched &amp; wept</l>
+                  <l n="266">Together! Oh, how often I have longed,</l>
+                  <l n="267">As we sate silent by his restless couch,</l>
+                  <l n="268">To fall upon thy neck, and mix our <del rend="squiggles">fears</del>tears,</l>
+                  <l n="269">And talk of him. I am his own poor Cousin.</l>
+                  <l n="270">Thou wilt not hate me.</l>
+                  <pb/>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Annab.</speaker>
+                  <l n="271">Save that lost one, who</l>
+                  <l n="272">Could hate such innocence?</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="273">'Twas not in hate,</l>
+                  <l n="274">But wild ambition. No ignoble sin</l>
+                  <l n="275">Dwelt in his breast. Ambition, mad ambition,</l>
+                  <l n="276">That was his idol. To that bloody god</l>
+                  <l n="277">He offered up the milk white
+							sacrifice,</l>
+                  <l n="278">The pure, unspotted victim. And even then,</l>
+                  <l n="279">Even in the crime, without a breathing space</l>
+                  <l n="280">For penitence, or prayer, my sword--Alfonso,</l>
+                  <l n="281">Thou would'st have gone to heaven.</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Annab.</speaker>
+                  <l n="282">Art thou certain</l>
+                  <l n="283">That he is dead?</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="284">I saw him fall. The ground</l>
+                  <l n="285">Was covered with his blood.</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Annab.</speaker>
+                  <l n="286">Tell me the tale.</l>
+                  <l n="287">Did'st thou-- I would not wantonly recall</l>
+                  <l n="288">That scene of anguish. Did'st thou search his wound?</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="289">Annabel, in my eyes that scene will dwell</l>
+                  <l n="290">For ever, shutting out all lovely sights,</l>
+                  <l n="291">Even thee, my Beautiful! That torturing thought</l>
+                  <l n="292">Will burn, a living fire within my
+						            	breast,</l>
+                  <l n="293">Perpetually; words can nothing add,</l>
+                  <l n="294">And nothing take away. Fear not my frenzy;</l>
+                  <l n="295">I am calm now. Thou know'st how buoyantly</l>
+                  <l n="296">I darted from the straight, o'er vale &amp; hill,</l>
+                  <l n="297">Counting the miles by minutes. At the pass</l>
+                  <l n="298">Between the Albano mountains, I <del rend="squiggles">
+                        <gap quantity="1" reason="illegible" unit="words"/>
+                     </del>first breathed</l>
+                  <l n="299">A moment my hot steed, expecting still</l>
+                  <l n="300">To see the royal escort. Afar off,</l>
+                  <l n="301">As I stood, shading with my hand my eyes,</l>
+                  <l n="302">I thought I saw them; when, at once, I heard</l>
+                  <l n="303">From the deep glen, east of the pass, loud cries</l>
+                  <l n="304">Of mortal terror. Even in agony</l>
+                  <l n="305">I knew the voice, and darting thro' the trees.</l>
+                  <l n="306">I saw Alfonso, prostrate on the ground,</l>
+                  <l n="307">Clinging around the knees of one, who held</l>
+                  <l n="308">A dagger over him, in act to strike,</l>
+                  <l n="309">Yet, with averted head, as if he feared</l>
+                  <l n="310">To see his innocent victim. His own face</l>
+                  <l n="311">Was hidden. till at one spring I plunged my sword,</l>
+                  <pb/>
+                  <l n="312"/>
+                  <l n="313"/>
+                  <l n="314"/>
+                  <l n="315"/>
+                  <l n="316"/>
+                  <l n="317"/>
+                  <l n="318">Here, here, he died.</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Annab.</speaker>
+                  <l n="319">And thou--</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="320">I could have lain</l>
+                  <l n="321">In that dark glen for ever; but there stood</l>
+                  <l n="322">The dear-bought and the dear kinsman and prince</l>
+                  <l n="323">And friend. We heard the far-off clang of steeds</l>
+                  <l n="324">And armed men, and fearing some new foe,</l>
+                  <l n="325">Came homeward.</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Annab.</speaker>
+                  <l n="326">And did he, then, the unhappy,</l>
+                  <l n="327">Remain upon the ground?</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julisn.</speaker>
+                  <l n="328">Alas! he did. </l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Annab.</speaker>
+                  <l n="329">Oh! it was but a swoon. Listen, dear Julian,</l>
+                  <l n="330">I tell thee, I have comfort.</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="331">There is none</l>
+                  <l n="332">Left in the world. But I will listen to thee,</l>
+                  <l n="333">My faithfullest.</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Annab.</speaker>
+                  <l n="334">Count D'Alba sent to crave</l>
+                  <l n="335">An audience. Thou wast sleeping. I refused</l>
+                  <l n="336">To see him; but his messenger revealed</l>
+                  <pb/>
+                  <l n="337">To Constance his high tidings, which she poured</l>
+                  <l n="338">In my unwilling ears; for I so feared</l>
+                  <l n="339">To wake thee, that ere half her tale was told</l>
+                  <l n="340">I chid her from me. Yet she surely said</l>
+                  <l n="341">The Duke, thy father--</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="342">What?</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Annab.</speaker>
+                  <l n="343">Approached the city.</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="344">Alive? Alive? Oh! no! no! no! Dead! Dead!</l>
+                  <l n="345">The corse! the clay cold corse!</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Annab.</speaker>
+                  <l n="346">Alive, I think;</l>
+                  <l n="347">But Constance--</l>
+               </sp>
+               <sp who="#Julian #Alfonso_J">
+                  <speaker>Julian.</speaker>
+                  <l n="348">He will sink under this shock</l>
+                  <l n="349">Of hope.</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Annab.</speaker>
+                  <l n="350">Constance heard all.</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="351">Constance! What ho!</l>
+                  <l n="352">Constance!</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Annab.</speaker>
+                  <l n="353">She hears thee not.</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="354">Go seek her,--fly!</l>
+                  <l n="355">If he's alive, why art thou not returned?</l>
+                  <pb/>
+                  <l n="356">When that one little word will save two souls?</l>
+                  <stage>Exit Annabel.</stage>
+               </sp>
+               <sp who="#Alfonso_J">
+                  <speaker>Alfon.</speaker>
+                  <l n="357">Take patience, dearest cousin.</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="358">Do I not stand</l>
+                  <l n="359">Here, like a man of marble? Do I stir?</l>
+                  <l n="360">She creeps; she creeps. Thou would'st have gone and back</l>
+                  <l n="361">In half the time.</l>
+               </sp>
+               <sp who="#Alfonso_J">
+                  <speaker>Alfon.</speaker>
+                  <l n="362">Nay, nay, 'tis scarce a minute.</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="363">Thou may'st count hours and ages on my heart.--</l>
+                  <l n="364">Is she not coming?</l>
+               </sp>
+               <sp who="#Alfonso_J">
+                  <speaker>Alfon.</speaker>
+                  <l n="365">Shall I seek her?</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="366">Hark!</l>
+                  <l n="367">They've met. There are two steps; two silken gowns</l>
+                  <l n="368">Rustling, one whispering voice. Annabel!
+							Constance!</l>
+                  <l n="369">Is he--one word!--Only one word!</l>
+                  <stage> Enter Annabel. </stage>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Annab.</speaker>
+                  <l n="370">He lives!</l>
+               </sp>
+               <stage type="business">Julian sinks on his knees before the couch. Alfonso &amp;
+							              	Annabel go to h<damage agent="inkblot" quantity="3" unit="chars"/>
+                  <unclear>
+                     <supplied resp="#ebb">im.</supplied>
+                  </unclear> Scene drops.</stage>
+               <stage>End of the First Act.</stage>
+               <pb/>
+            </div>
+         </div>

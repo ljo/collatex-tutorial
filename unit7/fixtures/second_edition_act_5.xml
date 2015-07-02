@@ -1,0 +1,600 @@
+<div type="act">
+            <head>ACT V.</head>
+            <div type="scene">
+               <head>SCENE.</head>
+               <stage type="setting">The same as the last; the arched Door nearly closed.</stage>
+               <stage type="entrance">Annabel.</stage>
+               <sp who="#Annabel_J">
+                  <speaker>Annabel.</speaker>
+                  <l n="1767">I cannot rest. I wander to and fro</l>
+                  <l n="1768">Within my dreary prison, as to seek</l>
+                  <l n="1769">For comfort and find none. Each hour hath killed</l>
+                  <l n="1770">A hope that seemed the last. The shadows point</l>
+                  <l n="1771">Upward. The sun is sinking. Guard me, heaven,</l>
+                  <l n="1772">Through this dread night!</l>
+                  <stage>A gun is heard without.</stage>
+                  <l n="1773">What evil sound--All sounds</l>
+                  <l n="1774">Are evil here! Is there some murder doing?</l>
+                  <l n="1775">Or wantonly in sport.</l>
+               </sp>
+               <stage type="entrance">Enter Julian through the arched Door.</stage>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="1776">Annabel!</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Anna.</speaker>
+                  <l n="1777">Julian!</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="1778">My wife! Art thou still mine?</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Anna.</speaker>
+                  <l n="1779">Thine own.</l>
+                  <pb/>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="1780">She smiles!</l>
+                  <l n="1781">She clings to me! Her eyes are fixed on mine</l>
+                  <l n="1782">With the old love, the old divinest look</l>
+                  <l n="1783">Of innocence! It is yet time. She's pure!</l>
+                  <l n="1784">She's undefiled!--Speak to me, Annabel.</l>
+                  <l n="1785">Tremble not so.</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Anna.</speaker>
+                  <l n="1786">'Tis joy. Oh I have been</l>
+                  <l n="1787">So wretched! And to see thee when I thought</l>
+                  <l n="1788">We ne'er should meet again! How didst thou find me?</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="1789">The rosary! the blessed rosary</l>
+                  <l n="1790">Shone in the sun-beam, like a beacon fire,</l>
+                  <l n="1791">A guiding star! Thrice holy was its light</l>
+                  <l n="1792">That led me here to save--</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Anna.</speaker>
+                  <l n="1793">Oh blessings on thee!</l>
+                  <l n="1794">How? Where? what way? The iron door is barred!</l>
+                  <l n="1795">Where didst thou enter Julian!</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="1796">Through the casement</l>
+                  <l n="1797">Of yonder chamber.</l>
+                  <pb/>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Anna.</speaker>
+                  <l n="1798">What? that grim ascent!</l>
+                  <l n="1799">That awful depth! Didst thou dare this for me?</l>
+                  <l n="1800">And must I?--But I fear not. I'll go with thee.</l>
+                  <l n="1801">I'm safe of foot, and light. I'll go.</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="1802">Thou canst not.</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Anna.</speaker>
+                  <l n="1803">Then go thyself, or he will find thee here,</l>
+                  <l n="1804">He and his ruffian band. Let us part now.</l>
+                  <l n="1805">Kiss me again. Fly, fly from Sicily!--</l>
+                  <l n="1806">That fearful man--but he is all one lie--</l>
+                  <l n="1807">Told me thy life was forfeited.</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="1808">He told thee</l>
+                  <l n="1809">A truth.</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Anna.</speaker>
+                  <l n="1810">Oh fly! fly! fly;</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="1811">My Annabel</l>
+                  <l n="1812">The bloodhounds that he laid upon the scent</l>
+                  <l n="1813">Have tracked me hither. Didst thou hear a gun?</l>
+                  <l n="1814">For once the ball passed harmless.</l>
+                  <pb/>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Anna.</speaker>
+                  <l n="1815">Art thou hurt?</l>
+                  <l n="1816">Art sure thou art not?</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="1817">Yes. But they who aimed</l>
+                  <l n="1818">That death are on the watch. Their quarry's lodged.</l>
+                  <l n="1819">We can escape them--one way--only one!</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Anna.</speaker>
+                  <l n="1820">How? What way?</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="1821">Ask not.</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Anna.</speaker>
+                  <l n="1822">Whither?</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="1823">To--my father.</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Anna.</speaker>
+                  <l n="1824">Then he's alive--Oh happiness! They told me</l>
+                  <l n="1825">That he was dead. Why do we loiter here?</l>
+                  <l n="1826">Let's join him now.</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="1827">Not yet.</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Anna.</speaker>
+                  <l n="1828">Now! now! Thou know'st not</l>
+                  <pb/>
+                  
+                  <l n="1829">How horribly these walls do picture to me</l>
+                  <l n="1830">The several agonies whereof my soul</l>
+                  <l n="1831">Hath drunk to day. I have been tempted, Julian,</l>
+                  <l n="1832">By one--a fiend! tempted till I almost thought</l>
+                  <l n="1833">God had forsaken me. But thou art here</l>
+                  <l n="1834">To save me, and my pulse beats high again</l>
+                  <l n="1835">With love and hope. I am light-hearted now,</l>
+                  <l n="1836">And could laugh like a child--only these walls</l>
+                  <l n="1837">Do crowd around me with a visible weight,</l>
+                  <l n="1838">A palpable pressure; giving back the forms</l>
+                  <l n="1839">Of wildest thoughts that wandered through my brain</l>
+                  <l n="1840">Bright chattering Madness, and sedate Despair,</l>
+                  <l n="1841">And fear the Great Unreal!--Take me hence!</l>
+                  <l n="1842">Take me away with thee!</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="1843">Not yet, not yet.</l>
+                  <l n="1844">Thou sweetest wretch! I cannot--Dotard! Fool!</l>
+                  <l n="1845">I must. Not yet! not yet!--Talk to me, Annabel;</l>
+                  <l n="1846">This is the hour when thou wast wont to make</l>
+                  <l n="1847">Earth Heaven with lovely words; the sun-set hour,</l>
+                  <l n="1848">That woke thy spirit into joy. Once more</l>
+                  <l n="1849">Talk to me, Annabel.</l>
+                  <pb/>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Anna.</speaker>
+                  <l n="1850">Aye, all day long,</l>
+                  <l n="1851">When we are free. Thy voice is choked; thy looks</l>
+                  <l n="1852">Are not on me; thy hand doth catch and twitch</l>
+                  <l n="1853">And grasp mine painfully,--that gentle hand!</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="1854">O God! O God! that right hand!--kiss it not!</l>
+                  <l n="1855">Take thy lips from it!</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Anna.</speaker>
+                  <l n="1856">Canst thou save me, Julian?</l>
+                  <l n="1857">Thou always dost speak truth. Canst save thyself?</l>
+                  <l n="1858">Shall we go hence together?</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="1859">Aye, one fate--</l>
+                  <l n="1860">One home.</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Anna.</speaker>
+                  <l n="1861">Why that is bliss. We shall be poor--</l>
+                  <l n="1862">Shall we not, Julian? I shall have a joy</l>
+                  <l n="1863">I never looked for; I shall work for thee,</l>
+                  <l n="1864">Shall tend thee, be thy Page, thy 'Squire, thy all,--</l>
+                  <l n="1865">Shall I not, Julian.</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="1866">Annabel, look forth</l>
+                  <pb/>
+                  <l n="1867">Upon this glorious world! Look once again</l>
+                  <l n="1868">On our fair Sicily, lit by that sun</l>
+                  <l n="1869">Whose level beams do cast a golden shine</l>
+                  <l n="1870">On sea, and shore, and city, on the pride</l>
+                  <l n="1871">Of bowery groves; on Etna's smouldering top;--</l>
+                  <l n="1872">Oh bright and glorious world! and thou of all</l>
+                  <l n="1873">Created things most glorious, tricked in light,</l>
+                  <l n="1874">As the stars that live in Heaven!</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Anna.</speaker>
+                  <l n="1875">Why dost thou gaze</l>
+                  <l n="1876">So sadly on me.</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="1877">The bright stars, how oft</l>
+                  <l n="1878">They fall, or seem to fall! The Sun--look! look!</l>
+                  <l n="1879">He sinks, he sets in glory. Blessed orb,</l>
+                  <l n="1880">Like thee--like thee--Dost thou remember once</l>
+                  <l n="1881">We sate by the sea shore when all the Heaven</l>
+                  <l n="1882">And all the ocean seemed one glow of fire</l>
+                  <l>Red, purple, saffron, melted into one</l>
+                  <l>Intense and ardent flame, the doubtful line</l>
+                  <l>Where sea and sky should meet was lost in that</l>
+                  <l n="1883">Continuous brightness; there we sate and talked</l>
+                  <l>Of the mysterious union that blessed orb</l>
+                  <l>Wrought between earth and heaven, of life and death--</l>
+                  <l n="1884">High mysteries!--and thou didst wish thyself</l>
+                  <l n="1885">A spirit sailing in that flood of light</l>
+                  <l n="1886">Straight to the Eternal Gates, didt pray to pass</l>
+                  <l n="1887">Away in such a glory. Annabel!</l>
+                  <pb/>
+                  <l n="1888">Look out upon the burning sky, the sea</l>
+                  <l n="1889">One lucid ruby--'tis the very hour!</l>
+                  <l n="1890">Thou'lt be a Seraph at the Fount of Light</l>
+                  <l>Before--</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Anna.</speaker>
+                  <l n="1891">What must I die? And wilt thou kill me?</l>
+                  <l n="1892">Canst thou? Thou cam'st to save--</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="1893">To save thy honour!</l>
+                  <l n="1894">I shall die with thee.</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Anna.</speaker>
+                  <l n="1895">Oh, no! no! live! live!</l>
+                  <l n="1896">If I must die--Oh it is sweet to live,</l>
+                  <l n="1897">To breathe, to move, to feel the throbbing blood</l>
+                  <l n="1898">Beat in the veins,--to look on such an earth</l>
+                  <l n="1899">On such a Heaven,--to look on thee! Young life</l>
+                  <l n="1900">Is very dear.</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="1901">Would'st live for D'Alba?</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Anna.</speaker>
+                  <l n="1902">No!</l>
+                  <l n="1903">I had forgot. I'll die. Quick! Quick!</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="1904">One kiss!</l>
+                  <pb/>
+                  <l n="1905">Angel, dost thou forgive me?</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Anna.</speaker>
+                  <l n="1906">Yes.</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="1907">My sword!--</l>
+                  <l n="1908">I cannot draw it.</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Anna.</speaker>
+                  <l n="1909">Now! I'm ready.</l>
+               </sp>
+               <stage type="entrance">Enter Bertone, and two Murderers.</stage>
+               <sp who="#Bertone_J">
+                  <speaker>Bert.</speaker>
+                  <l n="1910">Seize him!</l>
+                  <l n="1911">Yield thee, Prince Julian! Yield thee! Seize the lady.</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="1912">Oh fatal, fond delay! Dare not come near us!</l>
+                  <l n="1913">Stand off! I'll guard thee, sweet. But when I fall</l>
+                  <l n="1914">Let him not triumph.</l>
+               </sp>
+               <sp who="#Bertone_J">
+                  <speaker>Bertone.</speaker>
+                  <l n="1915">Yield thee!</l>
+                  <l n="1916">Strike him down.</l>
+               </sp>
+               <stage type="business"/>
+               <pb/>
+               <sp who="#Julian">
+                  <speaker>Jul.</speaker>
+                  <l n="1917">Thou canst die then, my fairest.</l>
+               </sp>
+               <stage type="business">The two murderers have now advanced close to Julian.</stage>
+               <sp who="#Bertone_J">
+                  <speaker>Bertone.</speaker>
+                  <l n="1918">Now!</l>
+               </sp>
+               <stage type="business">One of the murderers strikes at Julian with his sword; Annabel rushes before him, receives the wound aimed at him, and falls at his feet.</stage>
+               <sp who="#Annabel_J">
+                  <speaker>Anna.</speaker>
+                  <stage type="delivery">(before she is wounded).</stage>
+                  <l n="1919">For thee!</l>
+                  <stage type="delivery">Then after.</stage>
+                  <l n="1920">For thee. 'Tis sweet!</l>
+                  <stage type="business">dies.</stage>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Anna.</speaker>
+                  <stage type="business"/>
+                  <l n="1921"/>
+                  <stage type="business"/>
+                  <l n="1922"/>
+                  <stage type="business"/>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="1923">Fiend, hast thou slain her? Die! die! die!</l>
+                  <stage type="business"/>
+                  <l n="1924">Come on. <stage type="business">fights and kills him.</stage>
+                  </l>
+               </sp>
+               <sp who="#Bertone_J">
+                  <speaker>Bertone.</speaker>
+                  <l n="1925">Call instant help! Hasten the Count!</l>
+                  <stage type="exit">Exit the other murderer.</stage>
+                  <stage type="business">Julian &amp; Bertone fight, and Julian kills him.</stage>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="1926">My wife!</l>
+                  <l n="1927">My murdered wife! Doth she not breathe? I thought--</l>
+                  <l n="1928">My sight is dim--Oh no!she's pale! she's cold!</l>
+                  <l n="1929">She's still!--If she were living she would speak</l>
+                  <l n="1930">To comfort me. She's mute! she's stiff! she's--dead!</l>
+                  <l n="1931">Why do I shiver at the word, that am</l>
+                  <l n="1932">Death's factor, peopler of unhallowed graves,</l>
+                  <l n="1933">Slayer of all my race! not thee! not thee!</l>
+                  <l n="1934">God, in his mercy, guided the keen sword</l>
+                  <l n="1935">To thy white bosom.--I could not. Lie there.</l>
+                  <l n="1936">I'll shroud thee in my mantle.</l>
+                  <stage type="business">covering her with it.</stage>
+                  <l n="1937">The rude earth</l>
+                  <l n="1938">Will veil thy beauty next. One kiss!--She died</l>
+                  <l n="1939">To save me!--One kiss, Annabel! I slew</l>
+                  <pb/>
+                  <l n="1940">The slave that killed thee,--but the fiend--the
+									cause--</l>
+                  <l n="1941">Is he not coming?--I will chain in life</l>
+                  <l n="1942">Till I've avenged thee; I could slay an army</l>
+                  <l n="1943">Now, in my strong despair. But that were mercy.</l>
+                  <l n="1944">He must wear daggers in his heart. He loved her;--</l>
+                  <l n="1945">I'll feed his hopes, and then--Aye--ha! ha! ha!</l>
+                  <l n="1946">That will be a revenge to make the fiends</l>
+                  <l n="1947">Laugh--ha! ha! ha! I'll wrap me in this cloak</l>
+                  <stage type="business">taking one belonging to the dead bravo.</stage>
+                  <l n="1948">And in the twilight--So!--He will not know</l>
+                  <l n="1949">My voice--it frightens me!--I have not hidden</l>
+                  <l n="1950">Thee quite, my Annabel! There is one tress</l>
+                  <l n="1951">Floating in springy grace--as if--she's dead!</l>
+                  <l n="1952">She's dead! I must not gaze, for then my heart</l>
+                  <l n="1953">Will break before its time. He comes. The stairs</l>
+                  <l n="1954">Groan at his pressure.</l>
+               </sp>
+               <stage type="entrance">Enter D'Alba.</stage>
+               <sp who="#DAlba">
+                  <speaker>D'Alba.</speaker>
+                  <stage type="business">entering to an Attendant</stage>
+                  <l n="1955">Back, and watch the gate!--</l>
+                  <l n="1956">All's tranquil. Where's the traitor?</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="1957">Dead.</l>
+               </sp>
+               <sp who="#DAlba">
+                  <speaker>D'Alba.</speaker>
+                  <l n="1958">Who slew him?</l>
+                  <pb/>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="1959">I.</l>
+               </sp>
+               <sp who="#DAlba">
+                  <speaker>D'Alba.</speaker>
+                  <l n="1960">And the lady,--where is she?</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="1961">At rest.</l>
+               </sp>
+               <sp who="#DAlba">
+                  <speaker>D'Alba.</speaker>
+                  <l n="1962">Fair Gentleness! After this perilous storm</l>
+                  <l n="1963">She needs must lack repose.I'll wait her here.</l>
+                  <l n="1964">Friend! thou hast done good service to the state</l>
+                  <l n="1965">And me; we're not ungrateful. Julian's sword</l>
+                  <l n="1966">Fails him not often; and the slave who fled</l>
+                  <l n="1967">Proclaimed him Victor.</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="1968">He slew two.</l>
+               </sp>
+               <sp who="#DAlba">
+                  <speaker>D'Alba.</speaker>
+                  <l n="1969">And thou</l>
+                  <l n="1970">Slew'st him? Aye there he lies in the ermined cloak</l>
+                  <l n="1971">Of royalty, his haughty shroud! Six ells</l>
+                  <l n="1972">Of rude uncostly linen serves to wrap</l>
+                  <l n="1973">Your common corse; but this man was born swathed</l>
+                  <l n="1974">In regal purple; lived so; and so died.</l>
+                  <l n="1975">So be he buried. Let not mine enemy</l>
+                  <l n="1976">Call me ungenerous. Roll him in his ermine</l>
+                  <l n="1977">And dig a hole without the city gate</l>
+                  <l n="1978">For him and the proud Regent. Quick! I'd have</l>
+                  <pb/>
+                  <l n="1979">The funeral speedy. Ah! the slaughtering sword</l>
+                  <l n="1980">Lies by him, brown with clotted gore. Hence! hence!</l>
+                  <l n="1981">And drag the carrion with thee.</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="1982">Wilt thou not</l>
+                  <l n="1983">Look on the corse?</l>
+               </sp>
+               <sp who="#DAlba">
+                  <speaker>D'Alba.</speaker>
+                  <l n="1984">I cannot wait her waking.</l>
+                  <l n="1985">I must go feast my eyes on her fair looks--</l>
+                  <l n="1986">Divinest Annabel! My widowed bride!--</l>
+                  <l n="1987">Where is she?</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <stage type="business">uncovering the body</stage>
+                  <l n="1988">There. Now gaze thyself to Hell!</l>
+                  <l n="1989">Gloat with hot love upon that beauteous dust!--</l>
+                  <l n="1990">She's safe! She's dead!</l>
+               </sp>
+               <sp who="#DAlba">
+                  <speaker>D'Alba.</speaker>
+                  <l n="1991">Julian!</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="1992">But touch her not</l>
+                  <l n="1993">She's mine.</l>
+               </sp>
+               <sp who="#DAlba">
+                  <speaker>D'Alba.</speaker>
+                  <l n="1994">Oh perfectest and loveliest thing!</l>
+                  <l n="1995">Eternal curses rest upon his head</l>
+                  <pb/>
+                  <l n="1996">Who murdered thee!</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="1997">Off! off! Pollute her not!</l>
+                  <l n="1998">She's white! She's pure!--Curses! Now curse for curse</l>
+                  <l n="1999">On the foul murderer! On him who turned</l>
+                  <l n="2000">The sweet soul from her home, who slew her father,</l>
+                  <l n="2001">Hunted her husband as a beast of prey,</l>
+                  <l n="2002">Pursued, imprisoned, lusted, left no gate</l>
+                  <l n="2003">Open save that to Heaven!--Off! gaze not on her!</l>
+                  <l n="2004">Thy look is profanation!</l>
+                  <stage/>
+                  <stage type="entrance">Enter Alfonso, Leanti, Valore, &amp;c.</stage>
+               </sp>
+               <sp who="#Alfonso_J">
+                  <speaker>Alfon.</speaker>
+                  <stage>Entering.</stage>
+                  <l n="2006">Here, Leanti!</l>
+                  <l n="2007">This way! Oh sight of horror! Julian! Julian!</l>
+               </sp>
+               <sp who="#Valore_J">
+                  <speaker>Valore.</speaker>
+                  <l n="2008">The Princess dead! Why D'Alba--</l>
+               </sp>
+               <sp who="#Leanti_J">
+                  <speaker>Leanti.</speaker>
+                  <l n="2009">Seize him guards.</l>
+                  <l n="2010">Lead him before the States. This bloody scene</l>
+                  <l n="2011">Calls for deep vengeance.</l>
+               </sp>
+               <sp who="#DAlba">
+                  <speaker>D'Alba.</speaker>
+                  <l n="2012">If I were not weary</l>
+                  <l n="2013">Of a world that sweats under a load of fools--</l>
+                  <pb/>
+                  <l n="2014">Old creaking vanes that turn as the wind changes--</l>
+                  <l n="2015">Lords, I'd defy ye! I'd live on for ever!</l>
+                  <l n="2016">And I defy ye now. For she is gone--</l>
+                  <l n="2017">The glorious vision!--and the Patriarch's years</l>
+                  <l n="2018">Were valueless. Do with me as ye will;--</l>
+                  <l n="2019">Ye cannot call back her.</l>
+               </sp>
+               <sp who="#Leanti_J">
+                  <speaker>Leanti.</speaker>
+                  <l n="2020">Off with him!</l>
+                  <stage>Exit D'Alba guarded.</stage>
+               </sp>
+               <sp who="#Alfonso_J">
+                  <speaker>Alfon.</speaker>
+                  <l n="2021">Julian! Wilt thou not speak?</l>
+                  <l/>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="2022">I have been thanking heaven</l>
+                  <l n="2023">That she is dead.</l>
+               </sp>
+               <sp who="#Valore_J">
+                  <speaker>Valore.</speaker>
+                  <l n="2024">His wits are gone.</l>
+               </sp>
+               <sp who="#Alfonso_J">
+                  <speaker>Alfon.</speaker>
+                  <l n="2025">My Julian</l>
+                  <l n="2026">Look on me. Dost thou know me? I'm thy Cousin,</l>
+                  <l n="2027">Thy comforter.</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="2028">She was my Comforter!</l>
+                  <pb/>
+                  <l n="2029">And now--But I do know thee; thou'rt the King;</l>
+                  <l n="2030">The pretty boy I loved--She loved thee too!</l>
+                  <l n="2031">I'm glad thou'rt come to close my eyes. Draw nearer</l>
+                  <l n="2032">That I may see thy face. Where art thou?</l>
+               </sp>
+               <sp who="#Alfonso_J">
+                  <speaker>Alfon.</speaker>
+                  <l n="2033">Here!</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="2034">Poor child he weeps! Send for the honoured dead</l>
+                  <l n="2035">Beside the city gate,--he pardoned me!</l>
+                  <l n="2036">Bury us in one grave,--all in one grave!</l>
+                  <l n="2037">I did not kill herStrew her with white flowers,</l>
+                  <l n="2038">For she was innocent.</l>
+               </sp>
+               <sp who="#Leanti_J">
+                  <speaker>Leanti.</speaker>
+                  <l n="2039">Cheer thee! Take hope!</l>
+               </sp>
+               <sp who="#Valore_J">
+                  <speaker>Valore.</speaker>
+                  <l n="2040">Raise up his head.</l>
+               </sp>
+               <sp who="#Alfonso_J">
+                  <speaker>Alfon.</speaker>
+                  <l n="2041">My Julian!</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="2042">He forgave me,--</l>
+                  <l n="2043">Thou know'st he did.--White flowers! Nothing but white!</l>
+                  <stage>Dies.</stage>
+                  <pb/>
+               </sp>
+               <sp who="#Leanti_J">
+                  <speaker>Leanti.</speaker>
+                  <l n="2044">He's gone!</l>
+               </sp>
+               <sp who="#Alfonso_J">
+                  <speaker>Alfon.</speaker>
+                  <l n="2045">And I am left in the wide world</l>
+                  <l n="2046">Alone. My Julian!</l>
+               </sp>
+               <stage>THE END.</stage>
+            </div>
+         </div>

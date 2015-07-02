@@ -1,0 +1,945 @@
+<div type="act">
+            <head>ACT III</head>
+            <div type="scene">
+               <head>SCENE.</head>
+               <stage type="setting">A Magnificent Cathedral. A Gothic Monument in the Foreground, with Steps round it, and the Figure of an old Warrior on the top.</stage>
+               <stage type="entrance">D'Alba, Leanti, Valore, Calvi, and other nobles.</stage>
+               <sp who="#Calvi_J">
+                  <speaker>Calvi.</speaker>
+                  <l n="785">Where stays the King?</l>
+               </sp>
+               <sp who="#Leanti_J">
+                  <speaker>Leanti</speaker>
+                  <l n="786">He's robing to assume</l>
+                  <l n="787">The Crown.</l>
+               </sp>
+               <sp who="#Calvi_J">
+                  <speaker>Calvi.</speaker>
+                  <l n="788">What a gloom reigns in the Cathedral!</l>
+                  <l n="789">Where are the people, who should make and grace</l>
+                  <l n="790">This pageant?</l>
+               </sp>
+               <sp who="#Valore_J">
+                  <speaker>Valore.</speaker>
+                  <l n="791">'Tis too sudden.</l>
+               </sp>
+               <sp who="#DAlba">
+                  <speaker>D'Alba.</speaker>
+                  <l n="792">Saw ye not</l>
+                  <l n="793">How coldly, as the slow procession moved,</l>
+                  <l n="794">Men's eyes were fixed upon him? Silently</l>
+                  <l n="795">We passed amid dull silence. I could hear</l>
+                  <l n="796">The chink of money, which the heralds flung,</l>
+                  <l n="797">Reverberate on the pavement. They, who stooped</l>
+                  <l n="798">To gather up the coin, looked on the impress</l>
+                  <l n="799">Of young Alfonso, sighed and shook their heads</l>
+                  <pb/>
+                  <l n="800">As 'twere his funeral.</l>
+               </sp>
+               <sp who="#Calvi_J">
+                  <speaker>Calvi.</speaker>
+                  <l n="801">Methinks this place</l>
+                  <l n="802">The general tomb of his high line doth cry</l>
+                  <l n="803">Shame on us! The mute citizens do mourn him</l>
+                  <l n="804">Better than we.</l>
+               </sp>
+               <sp who="#DAlba">
+                  <speaker>D'Alba</speaker>
+                  <l n="805">Therefore the gates are closed,</l>
+                  <l n="806">And none but peers of Sicily may pass</l>
+                  <l n="807">The guarded doors.</l>
+               </sp>
+               <sp who="#Leanti_J">
+                  <speaker>Leanti.</speaker>
+                  <l n="808">Where is Prince Julian?</l>
+               </sp>
+               <sp who="#DAlba">
+                  <speaker>D'Alba.</speaker>
+                  <l n="809">Sick</l>
+                  <l n="810">Here comes the Mighty One, and the great Prelates</l>
+                  <l n="811">That shall anoint his haughty brow; 'tis bent</l>
+                  <l n="812">With a stern joy.</l>
+               </sp>
+               <stage type="entrance">Enter Melfi, in Royal Robes, preceded by Nobles,
+								Officers, &amp;c. bearing the Crown, Archbishop, Bishops,
+								&amp;c.</stage>
+               <sp who="#Melfi">
+                  <speaker>Melfi.</speaker>
+                  <l n="813">No! To no tapered shrine.</l>
+                  <l>Here, reverend Fathers, here! This is my altar:</l>
+                  <l n="814">The tomb of my great ancestor, who first</l>
+                  <l n="815">Won from the Paynim this Sicilian crown,</l>
+                  <l n="816">And wore it gloriously; whose name I bear</l>
+                  <pb/>
+                  <l n="817">As I will bear his honour'd sceptre. Here,</l>
+                  <l n="818">At this most kingly altar, will I plight</l>
+                  <l n="819">My vow to Sicily, the nuptial vow</l>
+                  <l n="820">That links my fate to her's. Here I'll receive</l>
+                  <l n="821">Her Barons' answering faith. Hear me, thou shade</l>
+                  <l n="822">Of great Rugiero, whilst I swear to guard</l>
+                  <l n="823">With heart and hand the realm thy valour won,</l>
+                  <l n="824">The laws thy wisdom framed--brave legacy</l>
+                  <l n="825">To prince and people! to defend their rights,</l>
+                  <l n="826">To rule in truth and justice, peacefully,</l>
+                  <l n="827">If peace may be; and with the awful arm</l>
+                  <l n="828">Of lawful power to sweep the oppressor off</l>
+                  <l n="829">From thy blest Isle; to be the Peasants' King--</l>
+                  <l n="830">Nobles, hear that!--the Peasants' King and yours!</l>
+                  <l n="831">Look down, Ancestral Spirit, on my oath,</l>
+                  <l n="832">And sanctify and bless it! Now the crown.</l>
+               </sp>
+               <sp who="#DAlba">
+                  <speaker>D'Alba.</speaker>
+                  <l n="833">What noise is that at the gate?</l>
+               </sp>
+               <sp who="#Melfi">
+                  <speaker>Melfi.</speaker>
+                  <l>Crown me, I say.</l>
+               </sp>
+               <sp who="#ArchBishop_Jul">
+                  <speaker>Archb.</speaker>
+                  <l>'Tis fallen! Save us from the ill omen!</l>
+               </sp>
+               <sp who="#Melfi">
+                  <speaker>Melfi.</speaker>
+                  <l>Save us</l>
+                  <l>From thy dull hands, old dotard! Thou a Priest,</l>
+                  <l>And tremble at the touch of power! Give me</l>
+                  <l>The crown.</l>
+               </sp>
+               <sp who="#DAlba">
+                  <speaker>D'Alba</speaker>
+                  <l>It fits thee not.</l>
+               </sp>
+               <sp who="#Melfi">
+                  <speaker>Melfi.</speaker>
+                  <l n="834">Give me the crown,</l>
+                  <l n="835">And with a steady grasp it shall endue</l>
+                  <l n="836">These throbbing brows that burn till they are bound</l>
+                  <l n="837">With that bright diadem.</l>
+                  <pb/>
+                  <stage type="entrance">Enter Julian and Alfonso.</stage>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian</speaker>
+                  <l n="838">Stop. Place it here!</l>
+                  <l n="839">This is the King! the real, the only King!</l>
+                  <l n="840">The living King Alfonso!</l>
+               </sp>
+               <sp who="#Melfi">
+                  <speaker>Melfi.</speaker>
+                  <l n="841">Out, foul traitor!</l>
+                  <l n="842">'Tis an impostor.</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="843">Look on him, Count D'Alba!</l>
+                  <l n="844">Calvi, Valore, look! Ye know him well.</l>
+                  <l n="845">And ye that never saw him, know ye not</l>
+                  <l n="846">His father's lineaments? Remove thy hand</l>
+                  <l n="847">From that fair forehead. 'Tis the pallid brow</l>
+                  <l n="848">Bent with pensiveness, the dropping eyelid,</l>
+                  <l n="849">The womanish changing cheek--his very self!</l>
+                  <l n="850">Look on him. Do ye know him? Do ye own</l>
+                  <l n="851">Your King?</l>
+               </sp>
+               <sp who="#Calvi_J">
+                  <speaker>Calvi.</speaker>
+                  <l n="852">'Tis he.</l>
+               </sp>
+               <sp who="#DAlba">
+                  <speaker>D'Alba</speaker>
+                  <l n="853">The boy
+							himself!</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="854">Now place</l>
+                  <pb/>
+                  <l n="855">The crown upon his head; and hear me swear</l>
+                  <l n="856">Low at his feet, as subject, kinsman, Prince,</l>
+                  <l n="857">Allegiance.</l>
+               </sp>
+               <sp who="#Alfonso_J">
+                  <speaker>Alfon.</speaker>
+                  <l n="858">Rise, dear Cousin.</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="859">Father, kneel,</l>
+                  <l n="860">Kneel here with me thou, his first subject, thou</l>
+                  <l n="861">The guardian of the state, kneel first, and vow</l>
+                  <l n="862">Thy princely fealty.</l>
+               </sp>
+               <sp who="#Melfi">
+                  <speaker>Melfi.</speaker>
+                  <l n="863">Hence, abject slave!</l>
+                  <l n="864">And thou, young minion--</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <stage type="delivery">to Alf.</stage>
+                  <l n="865">Fear not. Father, kneel!</l>
+                  <l n="866">Look where thou art. This is no place, my lord,</l>
+                  <l n="867">To dally with thy duty: underneath</l>
+                  <l n="868">Thy fathers' sleep; above their banners wave</l>
+                  <l n="869">Heavily. Death is round about us. Death</l>
+                  <l n="870">And Fame. Have they no voice for thee? Not one,</l>
+                  <l n="871">Of one long storied line but lived and died</l>
+                  <l n="872">A pure and faithful Knight, and left his son</l>
+                  <l n="873">Honour--proud heritage! I am thine heir,</l>
+                  <l n="874">And I demand that bright inheritance</l>
+                  <l n="875">Unstained, undimmed. Kneel, I implore thee! I,</l>
+                  <l n="876">Thy son.</l>
+               </sp>
+               <sp who="#Melfi">
+                  <speaker>Melfi</speaker>
+                  <l n="877">Off, cursed viper!</l>
+                  <l n="878">Off, ere I hurl thee on the stones!</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="879">I've done</l>
+                  <l n="880">My duty. Was it not my duty?</l>
+               </sp>
+               <sp who="#Alfonso_J">
+                  <speaker>Alfon.</speaker>
+                  <l n="881">Julian,</l>
+                  <l n="882">Sit here by me; here on the
+							steps.</l>
+               </sp>
+               <sp who="#DAlba">
+                  <speaker>D'Alba</speaker>
+                  <l n="883">Again</l>
+                  <l n="884">We must demand of thee, my Lord of Melfi,</l>
+                  <l n="885">How chanced this tale of murder? Here's our Prince,</l>
+                  <l n="886">Safe and unhurt. But where's the Assassin? Where</l>
+                  <l n="887">The regicide? Where he that wounded thee?</l>
+                  <pb/>
+               </sp>
+               <sp who="#Melfi">
+                  <speaker>Melfi.</speaker>
+                  <stage type="business">Pointing to Julian</stage>
+                  <l n="888">Demand of him.</l>
+               </sp>
+               <sp who="#DAlba">
+                  <speaker>D'Alba.</speaker>
+                  <l n="889">Where be these murderers?</l>
+                  <l n="890">Art sure thou saw'st them, Duke? Or was't a freak</l>
+                  <l n="891">Of the deft Fay Morgana? Didst thou
+							feel</l>
+                  <l n="892">The trenchant blade? Or, was the hurt thou talk'st of</l>
+                  <l n="893">A fairy wound, a phantasm? Once again</l>
+                  <l n="894">I warn thee, speak.</l>
+               </sp>
+               <sp who="#Melfi">
+                  <speaker>Melfi.</speaker>
+                  <l n="895">Demand Prince Julian, Sir,</l>
+                  <l n="896">This work is his.</l>
+               </sp>
+               <sp who="#DAlba">
+                  <speaker>D'Alba.</speaker>
+                  <l n="897">He speaks not. Little King,</l>
+                  <l n="898">What say'st thou?</l>
+               </sp>
+               <sp who="#Alfonso_J">
+                  <speaker>Alfon.</speaker>
+                  <l n="899">Julian saved me.</l>
+               </sp>
+               <sp who="#DAlba">
+                  <speaker>D'Alba.</speaker>
+                  <l n="900">Saved! From whom?</l>
+                  <l n="901">From what!</l>
+               </sp>
+               <sp who="#Alfonso_J">
+                  <speaker>Alfon.</speaker>
+                  <l n="902">A king should have no memory</l>
+                  <l n="903">But for good deeds. My lords, an it so please you,</l>
+                  <l n="904">We'll to the Palace. I'll not wear to-day</l>
+                  <l n="905">This crown. Some fitting season; but not now.</l>
+                  <l n="906">I'm weary. Let us home.</l>
+               </sp>
+               <sp who="#DAlba">
+                  <speaker>D'Alba.</speaker>
+                  <l n="907">Aye, take him hence.</l>
+                  <l n="908">Home with him, Count Valore. Stay by him</l>
+                  <l n="909">Till I come to ye. Leave him not. Nay, Calvi,</l>
+                  <l n="910">Remain. Hence with the boy.</l>
+               </sp>
+               <sp who="#Alfonso_J">
+                  <speaker>Alfon.</speaker>
+                  <l n="911">My Cousin Julian,</l>
+                  <l n="912">Wilt thou not go with us?</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="913">I've done my duty.</l>
+                  <l n="914">Was't not my duty? But look there! look there!</l>
+                  <l n="915">I cannot go with thee. I am his now.</l>
+                  <l n="916">All his.</l>
+               </sp>
+               <sp who="#Alfonso_J">
+                  <speaker>Alfon.</speaker>
+                  <l n="917">Uncle--</l>
+               </sp>
+               <sp who="#Melfi">
+                  <speaker>Melfi.</speaker>
+                  <l n="918">Away, bright spotted worm--</l>
+               </sp>
+               <sp who="#DAlba">
+                  <speaker>D'Alba</speaker>
+                  <l n="919">What, ho! the guard!</l>
+               </sp>
+               <sp who="#Alfonso_J">
+                  <speaker>Alfon.</speaker>
+                  <l n="920">My lord, where Julian is</l>
+                  <l n="921">I need no guard. Question no more of this,</l>
+                  <l n="922">But follow us.</l>
+                  <stage type="exit">Exeunt Alfonso, Valore, and other nobles.</stage>
+                  <pb/>
+               </sp>
+               <sp who="#Melfi">
+                  <speaker>Melfi.</speaker>
+                  <l n="923">I do contemn myself</l>
+                  <l n="924">That I hold silence. Warriors, kinsmen, friends,</l>
+                  <l n="925">Barons of Sicily, the valiant princes</l>
+                  <l n="926">Of this most fertile and thrice famous Isle,</l>
+                  <l n="927">Hear me! What yonder crafty Count hath dared,</l>
+                  <l n="928">With subtle question and
+					          		derisive smile,</l>
+                  <l n="929">To slide into a meaning, is as true</l>
+                  <l n="930">As he is false. I would be King; I'd reign</l>
+                  <l n="931">Over fair Sicily; I'd call myself</l>
+                  <l n="932">Your Sovereign, Princes; thine, Count D'Alba, thine,</l>
+                  <l n="933">Calvi, and old Leanti--we were comrades</l>
+                  <l n="934">Many a year in the rough path of war.</l>
+                  <l n="935">And now ye know me all. I'll be a King</l>
+                  <l n="936">Fit for this warlike nation, which brooks sway</l>
+                  <l n="937">Only of men. Yon slight fair boy is born</l>
+                  <l n="938">With a woman's heart. Let him go tell his beads</l>
+                  <l n="939">For us and for our kingdom, I'll be King.</l>
+                  <l n="940">I'll lend unto that title such a name,</l>
+                  <l n="941">As shall enchase this bauble with one blaze</l>
+                  <l n="942">Of honour. I'll lead on to glory, lords,</l>
+                  <l n="943">And ye shall shine in the brightness of my fame</l>
+                  <pb/>
+                  <l n="944">As planets round the sun. What say ye?</l>
+               </sp>
+               <sp who="#DAlba">
+                  <speaker>D'Alba.</speaker>
+                  <l n="945">Never!</l>
+               </sp>
+               <sp who="#Calvi_J">
+                  <speaker>Calvi, &amp;c.</speaker>
+                  <l n="946">Never!</l>
+               </sp>
+               <sp who="#Melfi">
+                  <speaker>Melfi.</speaker>
+                  <l n="947">Say thou, Leanti, thou'rt a soldier</l>
+                  <l n="948">Worthy of the name,--a brave one! What say'st thou?</l>
+               </sp>
+               <sp who="#Leanti_J">
+                  <speaker>Leanti.</speaker>
+                  <l n="949">If young Alfonso--</l>
+               </sp>
+               <sp who="#DAlba">
+                  <speaker>D'Alba.</speaker>
+                  <l n="950">Peace. Why this is well.</l>
+                  <l n="951">This morning I received a tale--I'm not</l>
+                  <l n="952">An over-believer in man's excellence;</l>
+                  <l n="953">I know that in this slippery path of life</l>
+                  <l n="954">The firmest foot may fail; that there have been</l>
+                  <l n="955">Ere now ambitious generals, grasping heirs,</l>
+                  <l n="956">Unnatural kinsmen, foul usurpers, murderers!--</l>
+                  <l n="957">I know that man is frail, and might have fallen</l>
+                  <l n="958">Tho' Eve had never lived,--Albeit I own</l>
+                  <l n="959">The smiling mischief's potency. But this,</l>
+                  <l n="960">This tale was made up of such several sins,</l>
+                  <l n="961">All of them devilish, treason, treachery,</l>
+                  <pb/>
+                  <l n="962">And pitiless cruelty made murder pale</l>
+                  <l n="963">With their red shame,--I doubt not readily</l>
+                  <l n="964">When man and guilt are joined--but this the common</l>
+                  <l n="965">And general sympathy that links our kind</l>
+                  <l n="966">Forbade to believe. Yet now before ye all,</l>
+                  <l n="967">His peers and mine, before the vacant throne</l>
+                  <l n="968">He sought to usurp, before the crown that fell</l>
+                  <l n="969">As conscious from his brow, I do arraign</l>
+                  <l n="970">Rugiero, Duke of Melfi, General, Peer,</l>
+                  <l n="971">Regent and Prince, of Treason.</l>
+               </sp>
+               <sp who="#Melfi">
+                  <speaker>Melfi.</speaker>
+                  <l n="972">Treason! D'Alba.</l>
+                  <l n="973">We quarrel not for words. Let these but follow</l>
+                  <l n="974">And bold emprise shall bear a happier name.</l>
+                  <l n="975">Sicilians, have ye lost your Island spirit?</l>
+                  <l n="976">Barons, is your ancient bravery tamed down</l>
+                  <l n="977">By this vain scoffer? I'll to the people. They</l>
+                  <l n="978">Love their old soldier.</l>
+               </sp>
+               <sp who="#DAlba">
+                  <speaker>D'Alba.</speaker>
+                  <l n="979">Stop. Duke, I arraign thee</l>
+                  <l n="980">Of murder; planned, designed, attempted murder,</l>
+                  <l n="981">Though incomplete, on the thrice sacred person</l>
+                  <pb/>
+                  <l n="982">Of young Alfonso, kinsman, ward, and King.</l>
+                  <l n="983">Wilt thou defend this too? Was't a brave deed</l>
+                  <l n="984">To draw the assassin's sword on that poor child?</l>
+                  <l n="985">Seize him!</l>
+               </sp>
+               <sp who="#Melfi">
+                  <speaker>Melfi.</speaker>
+                  <l n="986">Come near who dares! Where be thy proofs?</l>
+                  <l n="987">Where be thy witnesses?</l>
+               </sp>
+               <sp who="#DAlba">
+                  <speaker>D'Alba.</speaker>
+                  <l n="988">There's one. Prince Julian,</l>
+                  <l n="989">Rouse thee!He sits erect and motionless</l>
+                  <l n="990">As yon ancestral image. Doth he breathe?</l>
+                  <l n="991">Rouse thee, and answer, as before thy God,</l>
+                  <l n="992">As there is truth in Heaven. Didst thou not see</l>
+                  <l n="993">Thy father's sword at young Alfonso's breast?</l>
+                  <l n="994">Lay not the boy, already dead with fear,</l>
+                  <l n="995">At his false guardian's feet? Answer!</l>
+               </sp>
+               <sp who="#Melfi">
+                  <speaker>Melfi.</speaker>
+                  <l n="996">Aye, speak,</l>
+                  <l n="997">Prince Julian! Dost thou falter now? On, on,</l>
+                  <l n="998">And drive the dagger home! On, on, I say.</l>
+               </sp>
+               <sp who="#Calvi_J">
+                  <speaker>Calvi.</speaker>
+                  <l n="999">We wait your Highness' answer.</l>
+                  <pb/>
+               </sp>
+               <sp who="#Leanti_J">
+                  <speaker>Leanti.</speaker>
+                  <l n="1000"/>
+                  <l n="1001"/>
+                  <l n="1002"/>
+                  <l n="1003"/>
+                  <l n="1004"/>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="1005">Which among ye</l>
+                  <l n="1006">Dares question me? What are ye, Sirs?</l>
+               </sp>
+               <sp who="#DAlba">
+                  <speaker>D'Alba.</speaker>
+                  <l n="1007">The States of Sicily.</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="1008">The States! Without a head!</l>
+                  <l n="1009">Without a King! Without a Regent! States!</l>
+                  <l n="1010">The States! Are ye the States that 'gainst all form</l>
+                  <l n="1011">Of justice or of guardian law drive on</l>
+                  <l n="1012">To bloody trial, him your Greatest? Here, too!</l>
+                  <l n="1013">Here! Will ye build up scaffolds in your churches?</l>
+                  <l n="1014">And turn grave priests to beadsmen? I'll not answer.</l>
+               </sp>
+               <sp who="#Calvi_J">
+                  <speaker>Calvi.</speaker>
+                  <l n="1015">The rack may force thee.</l>
+               </sp>
+               <sp who="#DAlba">
+                  <speaker>D'Alba.</speaker>
+                  <l n="1016">He but smiles. Convey</l>
+                  <l n="1017">The Duke to the Hall of Justice. We shall follow.</l>
+                  <l n="1018">Go summon Juan Castro thither. Hence!</l>
+                  <l n="1019">Why loiter ye?</l>
+               </sp>
+               
+               <sp who="#Melfi">
+                  <speaker>Melfi.</speaker>
+                  <l n="1024">A word with thee, Prince Julian.</l>
+                  <l n="1025">I pray ye, listen, 'tis no treason, lords.</l>
+                  <l n="1026">I would but say, finish thy work. Play well</l>
+                  <l n="1027">The part that thou hast chosen. Cast aside</l>
+                  <l n="1028">All filial yearnings. Be a gallant foe.</l>
+                  <l n="1029">Rush onward through the fight. Trample me down.</l>
+                  <l n="1030">Tread on my neck. Be perfect in that quality</l>
+                  <l n="1031">Which thou call'st justice. Quell thy womanish weakness.</l>
+                  <l n="1032">Let me respect the enemy, whom once</l>
+                  <l n="1033">I thought my Son.</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="1034">Once, Father!</l>
+                  <pb/>
+               </sp>
+               <sp who="#Melfi">
+                  <speaker>Melfi.</speaker>
+                  <l n="1035">I'm no Father!</l>
+                  <l n="1036">Rouse not my soul to curse thee! Tempt me not</l>
+                  <l n="1037">To curse thy Mother--She whom once I deemed</l>
+                  <l n="1038">A saint in purity; Be resolute,</l>
+                  <l n="1039">Falter not with them. Lie not.</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="1040">Did I ever?</l>
+               </sp>
+               <sp who="#Melfi">
+                  <speaker>Melfi.</speaker>
+                  <l n="1041">Finish thy work. On, soldiers!</l>
+                  <stage>Exit Melfi, guarded.</stage>
+               </sp>
+               <sp who="#DAlba">
+                  <speaker>D'Alba.</speaker>
+                  <l n="1042">Answer, Prince!</l>
+                  <l n="1043">The Duke, as thou hast heard, disclaims thee.</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="1044">Dare not</l>
+                  <l n="1045">A man of ye say that. I am his son--</l>
+                  <l n="1046">Tremble lest my sword should prove me so;--a part</l>
+                  <l n="1047">Of his own being. He gave me this life,</l>
+                  <l n="1048">These senses, these affections. The quick blood</l>
+                  <l n="1049">That knocks so strongly at my heart is his--</l>
+                  <l n="1050">Would I might spill it for him! Had ye no fathers,</l>
+                  <l n="1051">Have ye no sons, that ye would train men up</l>
+                  <l n="1052">In parricide? I will not answer ye.</l>
+                  <pb/>
+               </sp>
+               <sp who="#DAlba">
+                  <speaker>D'Alba.</speaker>
+                  <l n="1053">This passion is thy answer. Could'st thou say</l>
+                  <l n="1054">No; in that simple word were more comprised</l>
+                  <l n="1055">Than in a world of fiery eloquence.</l>
+                  <l n="1056">Canst thou not utter No? 'Tis short and easy,</l>
+                  <l n="1057">The first sound that a stuttering babe will lisp</l>
+                  <l n="1058">To his fond nurse,--yet thy tongue stammers at it!</l>
+                  <l n="1059">I ask him if his father be at once</l>
+                  <l n="1060">Traitor and Murderer, and he cannot say,</l>
+                  <l n="1061">No!</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="1062">Subtle blood-thirsty fiend! I'll answer</l>
+                  <l n="1063">To nought that thou canst ask. Murderer! The king</l>
+                  <l n="1064">Lives. Seek of him. One truth I'll tell thee, D'Alba,</l>
+                  <l n="1065">And then the record of that night shall pass</l>
+                  <l n="1066">Down to the grave in silence. But one sword</l>
+                  <l n="1067">Was stained with blood in yonder glen--'twas mine!</l>
+                  <l n="1068">I am the only guilty. This I swear</l>
+                  <l n="1069">Before the all-seeing God, whose quenchless gaze</l>
+                  <l n="1070">Pierced through that twilight hour. Now condemn</l>
+                  <l n="1071">The Duke of Melfi an ye dare! I'll speak</l>
+                  <l n="1072">No more on this foul question.</l>
+                  <pb/>
+               </sp>
+               <sp who="#Leanti_J">
+                  <speaker>Leanti.</speaker>
+                  <l n="1073">Thou the guilty?</l>
+                  <l n="1074">Thou!</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="1075">I have said it.</l>
+               </sp>
+               <sp who="#DAlba">
+                  <speaker>D'Alba.</speaker>
+                  <l n="1076">I had heard a tale--</l>
+               </sp>
+               <sp who="#Leanti_J">
+                  <speaker>Leanti.</speaker>
+                  <l n="1077">This must be sifted.</l>
+               </sp>
+               <sp who="#DAlba">
+                  <speaker>D'Alba.</speaker>
+                  <l n="1078">In that twilight hour</l>
+                  <l n="1079">A mortal eye beheld them. An old Spaniard,</l>
+                  <l n="1080">One of the guard--By Heaven it is a tale</l>
+                  <l n="1081">So bloody, so unnatural, man may scarce</l>
+                  <l n="1082">Believe it!</l>
+               </sp>
+               <sp who="#Leanti_J">
+                  <speaker>Leanti</speaker>
+                  <l n="1083">And the king still lives.</l>
+               </sp>
+               <sp who="#DAlba">
+                  <speaker>D'Alba</speaker>
+                  <l n="1084">Why, 'tis</l>
+                  <l n="1085">A mystery. Let's to the Hall of Justice</l>
+                  <l n="1086">And hear this soldier. Sir, they are ambitious,</l>
+                  <l n="1087">Father &amp; son--We can pass judgment there,</l>
+                  <l n="1088">This is no place;--Leanti, more ambitious</l>
+                  <l n="1089">Than thou canst guess.</l>
+                  <pb/>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="1090">Aye, by a thousand fold!</l>
+                  <l n="1091">I am an eaglet born, and can drink in</l>
+                  <l n="1092">The sunlight, when the blinking owls go darkling,</l>
+                  <l n="1093">Dazzled and blinded by the day. Ambitious!</l>
+                  <l n="1094">I have had day dreams would have shamed the visions</l>
+                  <l n="1095">Of that great Master of the world, who wept</l>
+                  <l n="1096">For other worlds to conquer. I'd have lived</l>
+                  <l n="1097">An age of sinless glory, and gone down</l>
+                  <l n="1098">Storied and epitaphed and chronicled,</l>
+                  <l n="1099">To the very end of time. Now--But I still</l>
+                  <l n="1100">May suffer bravely, may die as a Prince,</l>
+                  <l n="1101">A Man. Ye go to judgment. Lords, remember</l>
+                  <l n="1102">I am the only guilty.</l>
+               </sp>
+               <sp who="#Calvi_J">
+                  <speaker>Calvi</speaker>
+                  <l n="1103">We must needs</l>
+                  <l n="1104">On such confession, give you into charge</l>
+                  <l n="1105">A prisoner. Ho! Captain.</l>
+               </sp>
+               <stage/>
+               <sp who="#Leanti_J">
+                  <speaker>Leanti.</speaker>
+                  <l n="1106">Goes he with us?</l>
+               </sp>
+               <sp who="#DAlba">
+                  <speaker>D'Alba.</speaker>
+                  <l n="1107">No; for the hall is near, and they are best</l>
+                  <pb/>
+                  <l n="1108">Questioned apart. Walk by me, good Leanti,</l>
+                  <l n="1109">And I will shew thee why.</l>
+               </sp>
+               <sp who="#Leanti_J">
+                  <speaker>Leanti.</speaker>
+                  <l n="1110">Is't possible</l>
+                  <l n="1111">That Julian stabb'd his father?</l>
+               </sp>
+               <sp who="#DAlba">
+                  <speaker>D'Alba.</speaker>
+                  <l n="1112">No. Thou saw'st</l>
+                  <l n="1113">They met as friends; no! no!</l>
+                  <stage type="entrance">Exeunt Calvi and other Lords</stage>
+                  <stage type="entrance">Enter Annabel .</stage>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Annab.</speaker>
+                  <l n="1114">Where is he? Where?</l>
+                  <l n="1115">Julian!</l>
+               </sp>
+               <sp who="#DAlba">
+                  <speaker>D'Alba.</speaker>
+                  <l n="1116">Fair Princess--</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Annab.</speaker>
+                  <l n="1117">Stay me not. My Julian!</l>
+               </sp>
+               <sp who="#DAlba">
+                  <speaker>D'Alba.</speaker>
+                  <l n="1118">Oh, how she sinks her head upon his arm!</l>
+                  <l n="1119">How her curls kiss his cheek! and her white hand</l>
+                  <l n="1120">Lies upon his! The cold and sluggish husband!</l>
+                  <l n="1121">He doth not clasp that loveliest hand, which nature</l>
+                  <l>Fashioned to gather roses, or to hold</l>
+                  <l>Bunches of bursting grapes.</l>
+               </sp>
+               <sp who="#Leanti_J">
+                  <speaker>Leanti.</speaker>
+                  <l n="1122">Count D'Alba, see,</l>
+                  <l n="1123">We are alone. Wilt thou not come?</l>
+                  <pb/>
+               </sp>
+               <sp who="#DAlba">
+                  <speaker>D'Alba.</speaker>
+                  <l n="1124">Anon.</l>
+                  <l n="1125">Now he hath seized her hand, hath dared to grasp,</l>
+                  <l n="1126">He shall not hold it long.</l>
+               </sp>
+               <sp who="#Leanti_J">
+                  <speaker>Leanti.</speaker>
+                  <l n="1127">They'll wait us, Count.</l>
+               </sp>
+               <sp who="#DAlba">
+                  <speaker>D'Alba.</speaker>
+                  <l n="1128">That white hand shall be mine.</l>
+                  <stage>Exeunt D'Alba and Leanti</stage>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="1129">My Annabel,</l>
+                  <l n="1130">Why art thou here?</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Annab.</speaker>
+                  <l n="1131">They said--I was a fool</l>
+                  <l n="1132">That believed them!--Constance said she heard a cry,</l>
+                  <l n="1133">Down with the Melfi! and the rumour ran</l>
+                  <l n="1134">That there had been a fray, that thou wast slain.</l>
+                  <l n="1135">But thou art safe, my Julian?</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="1136">As thou seest.</l>
+                  <l n="1137">Thou art breathless still.</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Annab.</speaker>
+                  <l n="1138">Aye. I flew through the streets,</l>
+                  <l n="1139">Piercing the crowds like light. I was a fool;</l>
+                  <l n="1140">But thou had'st left me on a sudden, bearing</l>
+                  <pb/>
+                  <l n="1141">The young Alfonso with thee, high resolve</l>
+                  <l n="1142">Fixed in thine eye. I knew not--Love is
+									fearful;</l>
+                  <l n="1143">And I have learnt to fear.</l>
+                  <l n="1144"/>
+                  <l n="1145"/>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="1146">Thou tremblest still.</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Annabel.</speaker>
+                  <l n="1147">The Church is cold and lonely; and that seat,</l>
+                  <l n="1148">At the foot of yon grim warrior, all too damp</l>
+                  <l n="1149">For thee. I like not thus to see thee, Julian,</l>
+                  <l n="1150">Upon a tomb. Thou must submit thee still</l>
+                  <l n="1151">To thy poor nurse. Home! By the way thou'lt tell
+									me</l>
+                  <l n="1152">What hath befallen. Where is Alfonso?</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="1153">Say</l>
+                  <l n="1154">The King! the rightful, the acknowledged King!</l>
+                  <l>Annabel, this rude stone's effigy</l>
+                  <l>Of the founder of our line; the gallant chief</l>
+                  <l>Who swept away the Saracen, and quelled</l>
+                  <l>Fierce civil broils; and, when the people's choice</l>
+                  <l>Crowned him, lived guardian of their rights, and died</l>
+                  <l>Wept by them as a father. And methinks</l>
+                  <l>To-day I do not shame my ancestor;</l>
+                  <l>I dare to sit here at his feet, and feel</l>
+                  <l>He would not spurn his son. Thou dost not grieve</l>
+                  <l>To lose a crown, my fairest?</l>
+                  <l n="1155"/>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Annab.</speaker>
+                  <l n="1156">Oh no! no!</l>
+                  <l n="1157">I'm only proud of thee. Thy fame's my crown.</l>
+                  <l n="1158"/>
+                  <l n="1159"/>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Jul.</speaker>
+                  <l>Not fame but conscience is the enduring crown,</l>
+                  <l>And wearing that impearled, why to lose fame</l>
+                  <l>Or life were nothing.</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Ann.</speaker>
+                  <l>Where's thy father, Julian?</l>
+                  <l>Forgive me, I have pained thee.</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="1160">No. The pang</l>
+                  <l n="1161">Is mastered. Where? He is a prisoner</l>
+                  <l n="1162">Before the States. I am a prisoner here.</l>
+                  <l n="1163">These are my guards. Be calmer, Sweetest. Rend not</l>
+                  <l n="1164">This holy place with shrieks.</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Annab.</speaker>
+                  <l n="1165">They seek thy life!</l>
+                  <l n="1166">They'll sentence thee! They'll kill thee! No! they shall not,</l>
+                  <l n="1167">Unless they kill me first. What crime--O God,</l>
+                  <pb/>
+                  
+                  <l n="1168">To talk of crime and thee!--What falsest
+						            	charge</l>
+                  <l n="1169">Dare they to bring?</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="1170">Somewhat of yon sad night</l>
+                  <l n="1171">They know.</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Annab.</speaker>
+                  <l n="1172">Where's Theodore? The page? The King?</l>
+                  <l>Doth he accuse thee too?</l>
+                  <l n="1173"/>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Jul.</speaker>
+                  <l>Poor gentle Cousin!</l>
+                  <l>He is as innocent as thou.</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Ann.</speaker>
+                  <l>I'll fetch him.</l>
+                  <l>We'll go together to the States. We'll save thee.</l>
+                  <l>We, feeble though we be, woman and boy,</l>
+                  <l>We'll save thee. Hold me not!</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="1174">Where would'st thou go?</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Annab.</speaker>
+                  <l n="1175">To the States.</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="1176">And there?</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Annab.</speaker>
+                  <l n="1177">I'll tell the truth, the truth,</l>
+                  <l n="1178">The irresistible truth! Let go. A moment</l>
+                  <l n="1179">May cost thy life,--our lives. Nothing but truth,</l>
+                  <l n="1180">That's all thy cause can need. Let go.</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="1181">And he,</l>
+                  <l n="1182">My father?</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Annab.</speaker>
+                  <l n="1183">What's a thousand such as he,</l>
+                  <l n="1184">To thee, my husband! But he shall be safe.</l>
+                  <l n="1185">He is thy father. I'll say nought can harm him.</l>
+                  <l n="1186">He was ever kind to me! I'll pray for him.</l>
+                  <pb/>
+                  <l n="1187">Nay, an thou fear'st me, Julian, I'll not speak</l>
+                  <l n="1188">One word; I'll only kneel before them all,</l>
+                  <l n="1189">Lift up my hands, and pray in my inmost heart,</l>
+                  <l n="1190">As I pray to God.</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="1191">My loving wife, to Him</l>
+                  <l n="1192">Pray, to Him only. Leave me not, my dearest;</l>
+                  <l>There is a peace around us in this pause,</l>
+                  <l n="1193">This interval of torture. I'm content</l>
+                  <l>And strong to suffer. Be thou--</l>
+                  <stage>Enter D'Alba, Calvi, Leanti and Nobles</stage>
+                  <l n="1194">Ha! returned</l>
+                  <l n="1195">Already! This is quick. But I'm prepared.</l>
+                  <l n="1196">The sentence!</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Annab.</speaker>
+                  <l n="1197">Tell it not! Ye are his Judges.</l>
+                  <l n="1198">Ye have the power of life and death. Your words</l>
+                  <l n="1199">Are fate. Oh speak not yet! Listen to me.</l>
+               </sp>
+               <sp who="#DAlba">
+                  <speaker>D'Alba.</speaker>
+                  <l n="1200">Aye; a long summer day! What would'st thou?</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Annab.</speaker>
+                  <l n="1201">Save him!</l>
+                  <l n="1202">Save him!</l>
+               </sp>
+               <sp who="#DAlba">
+                  <speaker>D'Alba.</speaker>
+                  <l n="1203">He shall not die.</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Annab.</speaker>
+                  <l n="1204">Now bless thee, D'Alba!</l>
+                  <l n="1205">Bless thee! He's safe! He's free!</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="1206">Once more I ask</l>
+                  <l n="1207">His doom, for that is mine. If ye have dared,</l>
+                  <l n="1208">In mockery of justice, to arraign</l>
+                  <l n="1209">And sentence your great Ruler, with less pause</l>
+                  <l n="1210">Than a petty thief taken in the manner, what's</l>
+                  <l n="1211">Our doom?</l>
+               </sp>
+               <sp who="#DAlba">
+                  <speaker>D'Alba.</speaker>
+                  <l n="1212">Sir, our great ruler (we that love not</l>
+                  <l n="1213">Law's tedious circumstance may thank him) spared</l>
+                  <l n="1214">All trial by confession. He avowed</l>
+                  <l n="1215">Treason and regicide; and all that thou</l>
+                  <l n="1216">Hadst said or might say, he avouched unheard</l>
+                  <l n="1217">For truth, then cried; as thou hast done, for judgment,</l>
+                  <l>For death.</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="1218">I can die too.</l>
+               </sp>
+               <sp who="#Leanti_J">
+                  <speaker>Leanti.</speaker>
+                  <l n="1219">A milder doom</l>
+                  <l n="1220">Unites ye. We have spared the royal blood.</l>
+               </sp>
+               <sp who="#DAlba">
+                  <speaker>D'Alba.</speaker>
+                  <l n="1221">Only the blood. Estates and honours all</l>
+                  <l n="1222">Are forfeit to the King; the assembled states</l>
+                  <l n="1223">Banish ye; the most holy Church declares ye</l>
+                  <l n="1224">Beneath her ban. This is your sentence, Sir.</l>
+                  <l n="1225">A Herald waits to read it in the streets</l>
+                  <pb/>
+                  <l n="1226">Before ye, and from out the city gate</l>
+                  <l n="1227">To thrust ye, outlawed, excommunicate,</l>
+                  <l n="1228">Infamous amongst men. Ere noon to-morrow</l>
+                  <l n="1229">Ye must depart from Sicily; on pain</l>
+                  <l n="1230">Of death to ye the outlaws, death to all</l>
+                  <l n="1231">That harbour ye, death to whoe'er shall give</l>
+                  <l n="1232">Food, shelter, comfort, speech. So pass ye forth</l>
+                  <l n="1233">In infamy!</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Annab.</speaker>
+                  <l n="1234">Eternal infamy</l>
+                  <l n="1235">Rest on your heads, false judges! Outlawed! Banished!</l>
+                  <l n="1236">Bereft of all state and title! Thou art still</l>
+                  <l n="1237">Best of the good, greatest amongst the great,</l>
+                  <l n="1238">My Julian! Must they die that give thee food</l>
+                  <l n="1239">And rest and comfort? I shall comfort thee,</l>
+                  <l n="1240">I thy true wife! I'll never leave thee. Never!</l>
+                  <l n="1241">We'll walk together to the gate, my hand</l>
+                  <l n="1242">In thine, as lovers. Let's set forth. We'll go</l>
+                  <l n="1243">Together.</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="1244">Aye; but not to-night. I'll meet thee</l>
+                  <l n="1245">To-morrow at the harbour.</l>
+               </sp>
+               <sp who="#Annabel_J">
+                  <speaker>Annab.</speaker>
+                  <l n="1246">No! no! no!</l>
+                  <pb/>
+                  <l n="1247">I will not leave thee.</l>
+               </sp>
+               <sp who="#Julian">
+                  <speaker>Julian.</speaker>
+                  <l n="1248">Cling not thus. She trembles.</l>
+                  <l n="1249">She cannot walk. Brave Sir, we have been comrades;</l>
+                  <l n="1250">There is a pity in thine eye, which well</l>
+                  <l n="1251">Beseems a soldier. Take this weeping lady</l>
+                  <l n="1252">To King Alfonso. Tell the royal boy</l>
+                  <l n="1253">One, who was once his Cousin and his friend,</l>
+                  <l n="1254">Commends her to him. Go. To-morrow, dearest,</l>
+                  <l n="1255">We'll meet again. Now for the sentence. Lords,</l>
+                  <l n="1256">I question not your power. I submit</l>
+                  <l n="1257">To all, even to this shame. Be quick! be quick!</l>
+               </sp>
+               <stage type="exit">Exeunt.</stage>
+               <stage>END OF THE THIRD ACT.</stage>
+               <pb n="49"/>
+            </div>
+         </div>
